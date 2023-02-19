@@ -2,7 +2,7 @@
 package edu.natalia.navarro.reto4.ui;
 import edu.natalia.navarro.reto4.process.AnalisisDeVentas;
 /**
- Esta clase representa una interfaz de línea de comando para análisar de ventas.
+ En esta clase representa una interfaz de línea de comando para análisar de ventas.
  */
 public class CLI {
 

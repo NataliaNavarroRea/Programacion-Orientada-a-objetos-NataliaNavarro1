@@ -1,7 +1,7 @@
 package edu.natalia.navarro.reto4.process;
 import edu.natalia.navarro.reto4.ui.CLI;
 /**
- * La clase AnalisisDeVentas realiza el análisis de las ventas en un año para cuatro sabores diferentes.
+ * La clase AnalisisDeVentas realizar el análisis de las ventas en un año para cuatro sabores diferentes.
  * Proporciona la cantidad máxima de ventas por sabor y el trimestre con el máximo de ventas totales.
  */
 public class AnalisisDeVentas {
